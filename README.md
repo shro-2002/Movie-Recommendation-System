@@ -66,6 +66,9 @@ In this repository, you'll find the code and resources for a movie recommendatio
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvement, please don't hesitate to [open an issue](https://github.com/shro-2002/Movie-Recommendation-System/issues) or [create a pull request](https://github.com/shro-2002/Movie-Recommendation-System/pulls) in the GitHub repository.
 
-License
-This project is licensed under the MIT License.
+
+## License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+
 

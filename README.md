@@ -54,7 +54,8 @@ In this repository, you'll find the code and resources for a movie recommendatio
 
 ## Screenshots
 
-1. ![Movie Recommendation System Logo](screenshot1.png)
+1.
+![Movie Recommendation System Logo](screenshot1.png)
 
 Figure 1: Enter the movie name.
 

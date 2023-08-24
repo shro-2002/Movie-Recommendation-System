@@ -1,8 +1,8 @@
 # Movie Recommendation System
 
-![Movie Recommendation System Logo](screenshot.png)
-
 Welcome to the Movie Recommendation System repository! This project is a Python-based application that utilizes the Streamlit framework to provide users with movie recommendations based on the input movie's name. If you're a movie enthusiast looking for similar movies to watch, you've come to the right place.
+
+![Movie Recommendation System Logo](screenshot.png)
 
 ## Table of Contents
 

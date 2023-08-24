@@ -54,17 +54,13 @@ In this repository, you'll find the code and resources for a movie recommendatio
 
 ## Screenshots
 
-1.
+1.Enter the movie name.
 
 ![Movie Recommendation System Logo](screenshot1.png)
 
-Figure 1: Enter the movie name.
-
-2.
+2. View the list of recommended similar movies.
 
 ![Movie Recommendation System Logo](screenshot2.png)
-
-Figure 2: View the list of recommended similar movies.
 
 ## Contributions
 
